@@ -1,0 +1,37 @@
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\bin\Debug\Du bao thoi tiet.exe
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\bin\Debug\Du bao thoi tiet.pdb
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\obj\Debug\howto_weather_forecast2.Properties.Resources.resources
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\obj\Debug\dubaothoitiet.csproj.GenerateResource.Cache
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\obj\Debug\Du bao thoi tiet.exe
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\obj\Debug\Du bao thoi tiet.pdb
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\obj\Debug\dubaothoitiet.Form1.resources
+C:\Users\bui15\Downloads\Compressed\dubaothoitiet\dubaothoitiet_csharp\bin\Debug\Du bao thoi tiet.exe.config
+C:\Users\bui15\Downloads\Compressed\dubaothoitiet\dubaothoitiet_csharp\bin\Debug\Du bao thoi tiet.exe
+C:\Users\bui15\Downloads\Compressed\dubaothoitiet\dubaothoitiet_csharp\bin\Debug\Du bao thoi tiet.pdb
+C:\Users\bui15\Downloads\Compressed\dubaothoitiet\dubaothoitiet_csharp\obj\Debug\dubaothoitiet.csproj.AssemblyReference.cache
+C:\Users\bui15\Downloads\Compressed\dubaothoitiet\dubaothoitiet_csharp\obj\Debug\dubaothoitiet.Form1.resources
+C:\Users\bui15\Downloads\Compressed\dubaothoitiet\dubaothoitiet_csharp\obj\Debug\howto_weather_forecast2.Properties.Resources.resources
+C:\Users\bui15\Downloads\Compressed\dubaothoitiet\dubaothoitiet_csharp\obj\Debug\dubaothoitiet.csproj.GenerateResource.cache
+C:\Users\bui15\Downloads\Compressed\dubaothoitiet\dubaothoitiet_csharp\obj\Debug\dubaothoitiet.csproj.CoreCompileInputs.cache
+C:\Users\bui15\Downloads\Compressed\dubaothoitiet\dubaothoitiet_csharp\obj\Debug\Du bao thoi tiet.exe
+C:\Users\bui15\Downloads\Compressed\dubaothoitiet\dubaothoitiet_csharp\obj\Debug\Du bao thoi tiet.pdb
+D:\dubaothoitiet\bin\Debug\Du bao thoi tiet.exe.config
+D:\dubaothoitiet\bin\Debug\Du bao thoi tiet.exe
+D:\dubaothoitiet\bin\Debug\Du bao thoi tiet.pdb
+D:\dubaothoitiet\obj\Debug\dubaothoitiet.csproj.AssemblyReference.cache
+D:\dubaothoitiet\obj\Debug\dubaothoitiet.Form1.resources
+D:\dubaothoitiet\obj\Debug\howto_weather_forecast2.Properties.Resources.resources
+D:\dubaothoitiet\obj\Debug\dubaothoitiet.csproj.GenerateResource.cache
+D:\dubaothoitiet\obj\Debug\dubaothoitiet.csproj.CoreCompileInputs.cache
+D:\dubaothoitiet\obj\Debug\Du bao thoi tiet.exe
+D:\dubaothoitiet\obj\Debug\Du bao thoi tiet.pdb
+C:\Users\bui15\OneDrive\Máy tính\dubaothoitiet\obj\Debug\dubaothoitiet.csproj.AssemblyReference.cache
+C:\Users\bui15\OneDrive\Máy tính\dubaothoitiet\obj\Debug\dubaothoitiet.Form1.resources
+C:\Users\bui15\OneDrive\Máy tính\dubaothoitiet\obj\Debug\howto_weather_forecast2.Properties.Resources.resources
+C:\Users\bui15\OneDrive\Máy tính\dubaothoitiet\obj\Debug\dubaothoitiet.csproj.GenerateResource.cache
+C:\Users\bui15\OneDrive\Máy tính\dubaothoitiet\obj\Debug\dubaothoitiet.csproj.CoreCompileInputs.cache
+C:\Users\bui15\OneDrive\Máy tính\dubaothoitiet\obj\Debug\Du bao thoi tiet.exe
+C:\Users\bui15\OneDrive\Máy tính\dubaothoitiet\obj\Debug\Du bao thoi tiet.pdb
+C:\Users\bui15\OneDrive\Máy tính\dubaothoitiet\bin\Debug\Du bao thoi tiet.exe.config
+C:\Users\bui15\OneDrive\Máy tính\dubaothoitiet\bin\Debug\Du bao thoi tiet.exe
+C:\Users\bui15\OneDrive\Máy tính\dubaothoitiet\bin\Debug\Du bao thoi tiet.pdb
